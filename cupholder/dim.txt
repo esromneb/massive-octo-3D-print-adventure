@@ -3,3 +3,8 @@ all in mm
 base od: 72.47
 
 height: 20.06
+
+
+id of cup in software 61.4
+
+solidify 5.4
