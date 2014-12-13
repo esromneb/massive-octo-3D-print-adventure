@@ -7,4 +7,4 @@ height: 20.06
 
 id of cup in software 61.4
 
-solidify 5.4
+solidify 13.9  (after remove duplicate faces)
