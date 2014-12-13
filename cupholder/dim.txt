@@ -6,5 +6,6 @@ height: 20.06
 
 
 id of cup in software 61.4
+id of cup top is 66
 
 solidify 13.9  (after remove duplicate faces)
