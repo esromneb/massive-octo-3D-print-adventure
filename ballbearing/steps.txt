@@ -1,0 +1,22 @@
+to container ring:
+select top of outer ring.
+
+
+for bottom:
+
+e 0.4
+e 1
+select inner ring
+s 0.85
+
+
+
+for top:
+
+e 0.4
+e 1
+select inner ring
+s 0.85
+switch to line mode
+select line
+s 1.17   (which is 1/0.85)
